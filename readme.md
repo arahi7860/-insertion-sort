@@ -2,8 +2,6 @@
 
 **Insertion Sort** is an algorithm which moves elements one at a time into the correct position. The algorithm consists of inserting one element at a time into the previously sorted part of the array, moving higher ranked elements up as necessary.
 
-[Quick Video](https://www.youtube.com/watch?v=OGzPmgsI-pQ)
-
 ![Diagram](./insertionsort.png)
 
 [Visualization](https://visualgo.net/en/sorting)
@@ -24,8 +22,9 @@ Only has to run through a nearly sorted array one time making a simple compariso
 
 `let arr = [1,2,3,4]`
 
-### Resources
+### Additional Resources
 
-[Insertion Sorting JS](https://dev.to/ryan_dunton/insertion-sorting-for-beginners-in-js------fkg)
-
-[Rosettacode](https://rosettacode.org/wiki/Sorting_algorithms/Insertion_sort)
+- [Insertion Sort Video | GeeksforGeeks](https://www.youtube.com/watch?v=OGzPmgsI-pQ)
+- [Insertion Sorting for Beginners in JS](https://dev.to/ryan_dunton/insertion-sorting-for-beginners-in-js------fkg)
+- [Rosettacode](https://rosettacode.org/wiki/Sorting_algorithms/Insertion_sort)
+- [Insertion Sort Animation | Toptal](https://www.toptal.com/developers/sorting-algorithms/insertion-sort)
