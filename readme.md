@@ -4,13 +4,13 @@
 
 ![Diagram](./insertionsort.png)
 
-[Visualization](https://visualgo.net/en/sorting)
-
 [![Dance](sortDance.png)](https://www.youtube.com/watch?v=ROalU379l3U)
+
+[Interactive Visualization](https://visualgo.net/en/sorting)
 
 ### Worst Case Time Complexity: O(N<sup>2</sup>)
 
-As the length of the array grows has to make N<sup>2</sup> comparisons
+As the length of the array grows has to make N<sup>2</sup> comparisons.
 
 Not efficient on reversed data sets.
 
