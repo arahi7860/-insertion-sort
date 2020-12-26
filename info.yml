@@ -2,9 +2,9 @@
 
 # Required fields: unit, section and type
 
-unit: 2
+unit: cs
 
-section: CS
+section: algos
 
 type: lesson
 
